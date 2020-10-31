@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundGravity="center"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#F3B04C">
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@mipmap/ic_launcher_foreground" />
+
+        <Button
+            android:id="@+id/sledzBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="#F3B04C"
+            android:drawableTop="@drawable/aktywnosc_foreground"
+            android:text="Śledź aktywność"
+            app:layout_constraintBottom_toTopOf="@+id/pomiaryBtn"
+            app:layout_constraintEnd_toEndOf="@+id/pomiaryBtn"
+            app:layout_constraintStart_toStartOf="@+id/pomiaryBtn"
+            app:layout_constraintTop_toBottomOf="@+id/imageView6"
+            tools:text="Śledź aktywność" />
+
+        <Button
+            android:id="@+id/pomiaryBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#F3B04C"
+            android:drawableTop="@drawable/pomiary_foreground"
+            android:text="Zbierz pomiary"
+            app:layout_constraintBottom_toTopOf="@+id/bluetoothBtn"
+            app:layout_constraintEnd_toEndOf="@+id/bluetoothBtn"
+            app:layout_constraintStart_toStartOf="@+id/bluetoothBtn"
+            app:layout_constraintTop_toBottomOf="@+id/sledzBtn"
+            tools:text="Zbierz pomiary" />
+
+        <Button
+            android:id="@+id/bluetoothBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="#F3B04C"
+            android:drawableTop="@drawable/bluetooth_foreground"
+            android:onClick="sendViaBluetooth"
+            android:text="Prześlij dane przez Bluetooth"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/pomiaryBtn"
+            tools:text="Prześlij dane przez Bluetooth" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>

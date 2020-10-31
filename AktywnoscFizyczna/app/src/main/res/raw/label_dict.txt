@@ -1,0 +1,4 @@
+Bieganie:0
+Brak aktywności:1
+Chodzenie:2
+Jazda na rowerze:3

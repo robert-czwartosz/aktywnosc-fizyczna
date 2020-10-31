@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3B04C"
+    android:foregroundGravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        app:srcCompat="@mipmap/ic_launcher_foreground" />
+
+    <Button
+        android:id="@+id/sledzBtn"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_weight="1"
+        android:background="#F3B04C"
+        android:drawableTop="@drawable/aktywnosc_foreground"
+        android:scaleX="0.8"
+        android:scaleY=".8"
+        android:text="Śledź aktywność"
+        android:textSize="10sp"
+        tools:text="Śledź aktywność" />
+
+    <Button
+        android:id="@+id/pomiaryBtn"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#F3B04C"
+        android:drawableTop="@drawable/pomiary_foreground"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:text="Zbierz pomiary"
+        android:textSize="10sp"
+        tools:text="Zbierz pomiary" />
+
+    <Button
+        android:id="@+id/bluetoothBtn"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:background="#F3B04C"
+        android:drawableTop="@drawable/bluetooth_foreground"
+        android:onClick="sendViaBluetooth"
+        android:scaleX="0.8"
+        android:scaleY=".8"
+        android:text="Bluetooth"
+        android:textSize="10sp"
+        android:visibility="visible"
+        tools:text="Bluetooth" />
+</LinearLayout>

@@ -1,0 +1,2 @@
+Chodzenie:0
+Jazda na rowerze:1

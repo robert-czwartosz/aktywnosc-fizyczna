@@ -40,9 +40,9 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 
 ### Śledzenie aktywności
 
-<img src="screeny/sledzenie_aktywnosci1.png" alt="Śledzenie aktywności 1" width="400"/>
-<img src="screeny/sledzenie_aktywnosci2.png" alt="Śledzenie aktywności 2"/>
-<img src="screeny/sledzenie_aktywnosci3.jpg" alt="Śledzenie aktywności 3"/>
+<img src="screeny/sledzenie_aktywnosci1.jpg" alt="Śledzenie aktywności 1" width="400"/>
+<img src="screeny/sledzenie_aktywnosci2.jpg" alt="Śledzenie aktywności 2"/>
+<img src="screeny/sledzenie_aktywnosci3.png" alt="Śledzenie aktywności 3"/>
 
 ## Konfiguracja oprogramowania
 

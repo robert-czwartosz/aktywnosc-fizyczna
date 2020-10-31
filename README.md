@@ -22,7 +22,7 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 
 ### Menu główne
 
-![Menu1](screeny/menu1.jpg "Menu1")
+![Menu1](screeny/menu1.jpg =250x "Menu1")
 ![Menu2](screeny/menu2.jpg "Menu2")
 ![Menu3](screeny/menu3.png "Menu3")
 

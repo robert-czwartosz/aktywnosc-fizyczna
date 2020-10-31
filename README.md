@@ -23,9 +23,8 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 ### Menu główne
 
 <img src="screeny/menu1.jpg" alt="Menu1" width="200"/>
-![Menu1](screeny/menu1.jpg =250x100 "Menu1")
-![Menu2](screeny/menu2.jpg "Menu2")
-![Menu3](screeny/menu3.png "Menu3")
+<img src="screeny/menu2.jpg" alt="Menu2" width="200"/>
+<img src="screeny/menu3.jpg" alt="Menu3" width="200"/>
 
 ### Zbieranie pomiarów
 

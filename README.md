@@ -49,7 +49,7 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 ### Uruchomienie aplikacji mobilnej AktywnośćFizyczna
 
 1. Uruchom program Android Studio.
-2. Otwórz projekt zawarty w folderze /AktywnośćFizyczna.
+2. Otwórz projekt zawarty w folderze [/AktywnośćFizyczna](https://github.com/robert-czwartosz/aktywnosc-fizyczna/tree/main/AktywnoscFizyczna).
 3. Wybierz w menu Build -> Build Bundle(s) / APK(s) -> Build APK(s)
 4. Po wygenerowaniu APK wyświetli się powiadomienie. Należy kliknąć podkreślony wyraz "locate" znajdujący się w powiadomieniu.
 5. Podłącz telefon do komputera za pomocą kabla USB

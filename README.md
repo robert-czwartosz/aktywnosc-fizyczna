@@ -22,26 +22,26 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 
 ### Menu główne
 
-![Menu1](screeny/menu1.png "Menu1")
-![Menu2](screeny/menu2.png "Menu2")
+![Menu1](screeny/menu1.jpg "Menu1")
+![Menu2](screeny/menu2.jpg "Menu2")
 ![Menu3](screeny/menu3.png "Menu3")
 
 ### Zbieranie pomiarów
 
-![Zbieranie pomiarow1](screeny/zbieranie_pomiarow1.png "Zbieranie pomiarów 1")
-![Zbieranie pomiarow2](screeny/zbieranie_pomiarow2.png "Zbieranie pomiarów 2")
+![Zbieranie pomiarow1](screeny/zbieranie_pomiarow1.jpg "Zbieranie pomiarów 1")
+![Zbieranie pomiarow2](screeny/zbieranie_pomiarow2.jpg "Zbieranie pomiarów 2")
 ![Zbieranie pomiarow3](screeny/zbieranie_pomiarow3.png "Zbieranie pomiarów 3")
-![Zbieranie pomiarow4](screeny/zbieranie_pomiarow4.png "Zbieranie pomiarów 4")
-![Zbieranie pomiarow5](screeny/zbieranie_pomiarow5.png "Zbieranie pomiarów 5")
-![Zbieranie pomiarow6](screeny/zbieranie_pomiarow6.png "Zbieranie pomiarów 6")
+![Zbieranie pomiarow4](screeny/zbieranie_pomiarow4.jpg "Zbieranie pomiarów 4")
+![Zbieranie pomiarow5](screeny/zbieranie_pomiarow5.jpg "Zbieranie pomiarów 5")
+![Zbieranie pomiarow6](screeny/zbieranie_pomiarow6.jpg "Zbieranie pomiarów 6")
 ![Zbieranie pomiarow7](screeny/zbieranie_pomiarow7.png "Zbieranie pomiarów 7")
-![Zbieranie pomiarow8](screeny/zbieranie_pomiarow8.png "Zbieranie pomiarów 8")
-![Zbieranie pomiarow9](screeny/zbieranie_pomiarow9.png "Zbieranie pomiarów 9")
+![Zbieranie pomiarow8](screeny/zbieranie_pomiarow8.jpg "Zbieranie pomiarów 8")
+![Zbieranie pomiarow9](screeny/zbieranie_pomiarow9.jpg "Zbieranie pomiarów 9")
 
 ### Śledzenie aktywności
 
-![Sledzenie aktywnosci 1](screeny/zbieranie_aktywnosci1.png "Śledzenie aktywności 1")
-![Sledzenie aktywnosci 2](screeny/zbieranie_aktywnosci2.png "Śledzenie aktywności 2")
+![Sledzenie aktywnosci 1](screeny/zbieranie_aktywnosci1.jpg "Śledzenie aktywności 1")
+![Sledzenie aktywnosci 2](screeny/zbieranie_aktywnosci2.jpg "Śledzenie aktywności 2")
 ![Sledzenie aktywnosci 3](screeny/zbieranie_aktywnosci3.png "Śledzenie aktywności 3")
 
 ## Konfiguracja oprogramowania

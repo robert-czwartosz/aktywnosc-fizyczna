@@ -51,7 +51,7 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 1. Uruchom program **Android Studio**.
 2. Otwórz projekt zawarty w folderze [/AktywnośćFizyczna](AktywnoscFizyczna).
 3. Wybierz w menu **Build** -> **Build Bundle(s) / APK(s)** -> **Build APK(s)**
-4. Po wygenerowaniu APK wyświetli się powiadomienie. Należy kliknąć podkreślony wyraz "locate" znajdujący się w powiadomieniu.
+4. Po wygenerowaniu APK wyświetli się powiadomienie. Należy kliknąć podkreślony link "locate" znajdujący się w powiadomieniu.
 5. Podłącz telefon do komputera za pomocą kabla USB
 6. Skopiuj plik **.apk** do pamięci wewnętrznej telefonu
 7. Znajdź plik **.apk** na telefonie i zainstaluj aplikację na telefonie.
@@ -59,25 +59,25 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 
 ### Zebranie pomiarów za pomocą aplikacji mobilnej
 
-1. Z menu aplikacji wybierz opcję **ZBIERZ POMIARY**.
+1. Z menu aplikacji wybierz **ZBIERZ POMIARY**.
 2. Ustaw wykonywaną aktywność.
 3. Włącz zbieranie pomiarów.
-4. Dokonaj zmiany wykonywanej aktywności jeśli to konieczne
+4. Dokonaj zmiany wykonywanej aktywności jeśli ona się zmieni
 5. Wyłącz zbieranie pomiarów.
 
 ### Przesłanie pomiarów przez Bluetooth z telefonu na komputer
 
 1. Powróć do menu.
-2. Włącz w komputerze Bluetooth
-3. Przybiż telefon do komputera
+2. Włącz w komputerze i telefonie Bluetooth
+3. Przybliż telefon do komputera
 4. Zparuj telefon z komputerem.
-5. Wybierz w telefonie komputer do którego zostanie wysłany plik
-6. W ustawieniach(na komputerze) dotyczących Bluetooth wybierz **Wyślij lub odbierz pliki przez Bluetooth**
-7. Po pojawieniu się okna kliknij **Odbierz plik**
-8. Z menu aplikacji wybierz opcję **PRZEŚLIJ DANE PRZEZ BLUETOOTH**.
+5. Z menu aplikacji wybierz opcję **PRZEŚLIJ DANE PRZEZ BLUETOOTH**.
+6. Wybierz w telefonie komputer do którego zostanie wysłany plik
+7. W ustawieniach(na komputerze) dotyczących Bluetooth wybierz **Wyślij lub odbierz pliki przez Bluetooth**
+8. Po pojawieniu się okna kliknij **Odbierz plik**
 9. Zapisz plik **SensorDatabase.db** w katalogu [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)
 10. Uruchom program getData.py znajdujący się w katalogu [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)
-11. Skopiuj plik label_dict.txt (katalog [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)) do katalogu [AktywnoscFizyczna\app\src\main\res\raw](AktywnoscFizyczna\app\src\main\res\raw)
+11. Skopiuj plik **label_dict.txt** (katalog [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)) do katalogu [AktywnoscFizyczna\app\src\main\res\raw](AktywnoscFizyczna\app\src\main\res\raw)
 
 ### Wytrenowanie modelu sieci neuronowej
 
@@ -88,7 +88,7 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 ### Zastosowanie sieci neuronowej do rozpoznawania aktywności fizycznej
 1. Zainstaluj aplikację mobilną **Aktywność Fizyczna** ze zmodyfikowaną siecią neuronową.
 2. Uruchom zainstalowaną aplikację.
-3. W menu wybierz śledź aktywność.
+3. W menu wybierz **ŚLEDŹ AKTYWNOŚĆ**.
 
 ## TODO
 * Dobranie parametrów sieci neuronowej

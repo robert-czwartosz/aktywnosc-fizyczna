@@ -48,18 +48,18 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 
 ### Uruchomienie aplikacji mobilnej AktywnośćFizyczna
 
-1. Uruchom program Android Studio.
+1. Uruchom program **Android Studio**.
 2. Otwórz projekt zawarty w folderze [/AktywnośćFizyczna](AktywnoscFizyczna).
-3. Wybierz w menu Build -> Build Bundle(s) / APK(s) -> Build APK(s)
+3. Wybierz w menu **Build** -> **Build Bundle(s) / APK(s)** -> **Build APK(s)**
 4. Po wygenerowaniu APK wyświetli się powiadomienie. Należy kliknąć podkreślony wyraz "locate" znajdujący się w powiadomieniu.
 5. Podłącz telefon do komputera za pomocą kabla USB
-6. Skopiuj plik .apk do pamięci wewnętrznej telefonu
-7. Znajdź plik .apk na telefonie i zainstaluj aplikację na telefonie.
+6. Skopiuj plik **.apk** do pamięci wewnętrznej telefonu
+7. Znajdź plik **.apk** na telefonie i zainstaluj aplikację na telefonie.
 8. Uruchom zainstalowaną aplikację.
 
 ### Zebranie pomiarów za pomocą aplikacji mobilnej
 
-1. Z menu aplikacji wybierz opcję ZBIERZ POMIARY.
+1. Z menu aplikacji wybierz opcję **ZBIERZ POMIARY**.
 2. Ustaw wykonywaną aktywność.
 3. Włącz zbieranie pomiarów.
 4. Dokonaj zmiany wykonywanej aktywności jeśli to konieczne
@@ -72,21 +72,21 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 3. Przybiż telefon do komputera
 4. Zparuj telefon z komputerem.
 5. Wybierz w telefonie komputer do którego zostanie wysłany plik
-6. W ustawieniach(na komputerze) dotyczących Bluetooth wybierz Wyślij lub odbierz pliki przez Bluetooth
-7. Po pojawieniu się okna kliknij Odbierz plik
-8. Z menu aplikacji wybierz opcję PRZEŚLIJ DANE PRZEZ BLUETOOTH.
-9. Zapisz plik SensorDatabase.db w katalogu dl4j-examples\src\main\resources\uci\train
-10. Uruchom program getData.py znajdujący się w katalogu dl4j-examples\src\main\resources\uci\train
-11. Skopiuj plik label_dict.txt (katalog dl4j-examples\src\main\resources\uci\train) do katalogu AktywnoscFizyczna\app\src\main\res\raw
+6. W ustawieniach(na komputerze) dotyczących Bluetooth wybierz **Wyślij lub odbierz pliki przez Bluetooth**
+7. Po pojawieniu się okna kliknij **Odbierz plik**
+8. Z menu aplikacji wybierz opcję **PRZEŚLIJ DANE PRZEZ BLUETOOTH**.
+9. Zapisz plik **SensorDatabase.db** w katalogu [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)
+10. Uruchom program getData.py znajdujący się w katalogu [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)
+11. Skopiuj plik label_dict.txt (katalog [dl4j-examples\src\main\resources\uci\train](dl4j-examples\src\main\resources\uci\train)) do katalogu [AktywnoscFizyczna\app\src\main\res\raw](AktywnoscFizyczna\app\src\main\res\raw)
 
 ### Wytrenowanie modelu sieci neuronowej
 
-1. Otwórz plik LSTMNetwork.java (katalog dl4j-examples\src\main\java\org\deeplearning4j\examples\feedforward\mnist) w IntelliJ
-2. Uruchom program poprzez wybranie w menu Run -> Run 'LSTMNetwork'
-3. Skopiuj plik trained_seq_model.zip (katalog dl4j-examples) do katalogu AktywnoscFizyczna\app\src\main\res\raw
+1. Otwórz plik [LSTMNetwork.java](dl4j-examples\src\main\java\org\deeplearning4j\examples\feedforward\mnist\LSTMNetwork.java) (katalog [dl4j-examples\src\main\java\org\deeplearning4j\examples\feedforward\mnist](dl4j-examples\src\main\java\org\deeplearning4j\examples\feedforward\mnist)) w **IntelliJ**
+2. Uruchom program poprzez wybranie w menu **Run** -> **Run 'LSTMNetwork'**
+3. Skopiuj plik **trained_seq_model.zip** (katalog [dl4j-examples](dl4j-examples)) do katalogu [AktywnoscFizyczna\app\src\main\res\raw](AktywnoscFizyczna\app\src\main\res\raw)
 
 ### Zastosowanie sieci neuronowej do rozpoznawania aktywności fizycznej
-1. Zainstaluj aplikację mobilną AktywnośćFizyczna ze zmodyfikowaną siecią neuronową.
+1. Zainstaluj aplikację mobilną **Aktywność Fizyczna** ze zmodyfikowaną siecią neuronową.
 2. Uruchom zainstalowaną aplikację.
 3. W menu wybierz śledź aktywność.
 

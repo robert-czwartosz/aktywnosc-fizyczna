@@ -2,7 +2,7 @@
 
 ## Cel projektu
 
-Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemów mobilnych. Celem projektu było stworzenie aplikacji mobilnej rozpoznającej wykonywaną aktywność fizyczną na podstawie danych z akcelerometru. 
+Celem projektu było stworzenie aplikacji mobilnej rozpoznającej wykonywaną aktywność fizyczną na podstawie danych z akcelerometru. 
 
 ## Technologie
 * Android Studio, Java

@@ -34,7 +34,7 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 <img src="screeny/zbieranie_pomiarow2.jpg" alt="Zbieranie pomiarow2"/>
 <img src="screeny/zbieranie_pomiarow5.jpg" alt="Zbieranie pomiarow5"/>
 <img src="screeny/zbieranie_pomiarow8.jpg" alt="Zbieranie pomiarow8"/>
-<img src="screeny/zbieranie_pomiarow3.jpg" alt="Zbieranie pomiarow3"/>
+<img src="screeny/zbieranie_pomiarow3.png" alt="Zbieranie pomiarow3"/>
 <img src="screeny/zbieranie_pomiarow6.png" alt="Zbieranie pomiarow6"/>
 <img src="screeny/zbieranie_pomiarow9.png" alt="Zbieranie pomiarow9"/>
 

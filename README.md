@@ -28,21 +28,21 @@ Projekt zrealizowałem w trakcie studiów w ramach kursu: programowanie systemó
 
 ### Zbieranie pomiarów
 
-![Zbieranie pomiarow1](screeny/zbieranie_pomiarow1.jpg "Zbieranie pomiarów 1")
-![Zbieranie pomiarow2](screeny/zbieranie_pomiarow2.jpg "Zbieranie pomiarów 2")
-![Zbieranie pomiarow3](screeny/zbieranie_pomiarow3.jpg "Zbieranie pomiarów 3")
-![Zbieranie pomiarow4](screeny/zbieranie_pomiarow4.jpg "Zbieranie pomiarów 4")
-![Zbieranie pomiarow5](screeny/zbieranie_pomiarow5.jpg "Zbieranie pomiarów 5")
-![Zbieranie pomiarow6](screeny/zbieranie_pomiarow6.png "Zbieranie pomiarów 6")
-![Zbieranie pomiarow7](screeny/zbieranie_pomiarow7.jpg "Zbieranie pomiarów 7")
-![Zbieranie pomiarow8](screeny/zbieranie_pomiarow8.jpg "Zbieranie pomiarów 8")
-![Zbieranie pomiarow9](screeny/zbieranie_pomiarow9.png "Zbieranie pomiarów 9")
+<img src="screeny/zbieranie_pomiarow1.jpg" alt="Zbieranie pomiarow1" width="400"/>
+<img src="screeny/zbieranie_pomiarow4.jpg" alt="Zbieranie pomiarow4" width="400"/>
+<img src="screeny/zbieranie_pomiarow7.jpg" alt="Zbieranie pomiarow7" width="400"/>
+<img src="screeny/zbieranie_pomiarow2.jpg" alt="Zbieranie pomiarow2"/>
+<img src="screeny/zbieranie_pomiarow5.jpg" alt="Zbieranie pomiarow5"/>
+<img src="screeny/zbieranie_pomiarow8.jpg" alt="Zbieranie pomiarow8"/>
+<img src="screeny/zbieranie_pomiarow3.jpg" alt="Zbieranie pomiarow3"/>
+<img src="screeny/zbieranie_pomiarow6.png" alt="Zbieranie pomiarow6"/>
+<img src="screeny/zbieranie_pomiarow9.png" alt="Zbieranie pomiarow9"/>
 
 ### Śledzenie aktywności
 
-![Sledzenie aktywnosci 1](screeny/zbieranie_aktywnosci1.png "Śledzenie aktywności 1")
-![Sledzenie aktywnosci 2](screeny/zbieranie_aktywnosci2.png "Śledzenie aktywności 2")
-![Sledzenie aktywnosci 3](screeny/zbieranie_aktywnosci3.jpg "Śledzenie aktywności 3")
+<img src="screeny/zbieranie_aktywnosci1.png" alt="Śledzenie aktywności 1" width="400"/>
+<img src="screeny/zbieranie_aktywnosci2.png" alt="Śledzenie aktywności 2"/>
+<img src="screeny/zbieranie_aktywnosci3.jpg" alt="Śledzenie aktywności 3"/>
 
 ## Konfiguracja oprogramowania
 
